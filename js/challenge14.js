@@ -24,3 +24,4 @@ switch(true){
       console.log('%csos muy viejo o muy joven','color:yellow; font-size:30px;');
 }
 }
+
